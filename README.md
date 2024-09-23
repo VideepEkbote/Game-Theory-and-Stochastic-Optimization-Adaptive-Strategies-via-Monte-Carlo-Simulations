@@ -1,1 +1,1 @@
-# Game-Theory-and-Stochastic-Optimization: Adaptive-Strategies-via-Monte-Carlo-Simulations
+# Probabilistic Game Theory: Optimizing Strategies with Monte Carlo Simulations
